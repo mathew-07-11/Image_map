@@ -154,7 +154,13 @@ Periyandavar Temple.html
 </html>
 ```
 # OUTPUT
+
+![map](https://github.com/user-attachments/assets/4071306d-e597-4835-abea-c47b35bc9c28)
+![kallukuzhi](https://github.com/user-attachments/assets/96a822e0-234e-4d23-9145-9c320fc6da7d)
+![sudha hospital](https://github.com/user-attachments/assets/320f6af2-8272-4d00-bf5f-def1e8ba466c)
+![hotel merrytale](https://github.com/user-attachments/assets/2c1e8f26-689c-4c55-a1f5-d884921249a8)
 ![kbh](https://github.com/user-attachments/assets/658d1db9-8a5c-4c84-942b-f36288b0d59d)
+
 
 
 # RESULT
