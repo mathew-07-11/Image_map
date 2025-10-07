@@ -35,7 +35,7 @@ map.html
             <font color="red"><b>Vadalur</b></font>
         </h1>
         <h3 align="center">
-            <font color="blue"><b>NITHIN KAVI A R (25016374)</b></font>
+            <font color="blue"><b>TINU MATHEW M [25015787]</b></font>
         </h3>
         <center>
             <img src="city.png" usemap="#mycity" alt="map" height="610" width="1450">
